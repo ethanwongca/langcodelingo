@@ -1,6 +1,7 @@
 # Langcodelingo 
 
 ## Building the Open Source Community 
+![Screenshot 2024-06-18 at 2 59 18 PM](https://github.com/ethanwongca/langcodelingo/assets/87055387/cafac8f4-b687-4e26-b1c0-342940060e30)
 
 ## Objective 
 
