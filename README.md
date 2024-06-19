@@ -2,7 +2,7 @@
 
 ## Building the Open Source Community 
 
+## Objective 
 
-
-![Screenshot 2024-06-18 at 2 59 18 PM](https://github.com/ethanwongca/langcodelingo/assets/87055387/b29d42c0-fb1d-4171-acbd-30d2054e62c5)
+The objective of the design is falling, when making a pulling from a repository on github, you have the option to translate all the comments and code to be in your native language. 
 
